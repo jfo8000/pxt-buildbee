@@ -1,5 +1,5 @@
 # Try it now!
-To demo the 3D printing block coding editor check out: https://buildbee.github.io/makecode
+To demo the 3D printing block coding editor check out: https://makecode.buildbee.com
 
 # Source location moved...  
 This is not the repo you are looking for!
